@@ -5,7 +5,7 @@
 
 ## Description
 
-This is a interactive bash programm `( salon.sh )` that keep track of clients and bookings in a database `( salon.sql )` for a salon.
+This is a interactive bash programm `(salon.sh)` that keep track of clients and bookings in a database `(salon.sql)` for a salon.
 
 This project is part of the **[freeCodeCamp](https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database)** Relation Database projects certification.
 
